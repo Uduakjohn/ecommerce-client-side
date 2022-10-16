@@ -1,2 +1,1 @@
-web: node web/index.js
-api: node api/index.js
+web: npm run start-heroku
