@@ -71,8 +71,7 @@
   },
   "homepage": "https://github.com/Uduakjohn/online-pharmacy-ecommerce/issues",
   "description": ""
-}
-
+},
   "dependencies": {
     "bcrypt": "^5.1.0",
     "cors": "^2.8.5",
