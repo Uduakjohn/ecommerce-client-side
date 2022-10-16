@@ -47,7 +47,6 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-=======
   "name": "y",
   "version": "1.0.0",
   "description": "perfect pills pharmacy",
@@ -55,30 +54,23 @@
   "scripts": {
     "start": "node index.js",
     "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install npm && run build"
->>>>>>> 3439ca46f6d94ffa4daffc4e25ca5a3989e69f6c
   },
   "engines": {
     "node": "16.17.0"
   },
-<<<<<<< HEAD
   "main": "index.js",
-=======
->>>>>>> 3439ca46f6d94ffa4daffc4e25ca5a3989e69f6c
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Uduakjohn/online-pharmacy-ecommerce.git"
   },
-<<<<<<< HEAD
   "author": "",
 =======
   "author": "Uduak Sam",
->>>>>>> 3439ca46f6d94ffa4daffc4e25ca5a3989e69f6c
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Uduakjohn/online-pharmacy-ecommerce/issues"
   },
   "homepage": "https://github.com/Uduakjohn/online-pharmacy-ecommerce/issues",
-<<<<<<< HEAD
   "description": ""
 }
 
@@ -92,4 +84,3 @@
     "validator": "^13.7.0"
   }
 }
->>>>>>> 3439ca46f6d94ffa4daffc4e25ca5a3989e69f6c
